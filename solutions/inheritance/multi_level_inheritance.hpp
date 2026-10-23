@@ -1,0 +1,8 @@
+#pragma once
+
+class Equilateral : public Isosceles {
+public:
+    void equilateral() {
+        cout << "I am an equilateral triangle\n";
+    }
+};
